@@ -1,0 +1,10 @@
+export default {
+  CLIENT_SDK_ID: process.env.YOTI_CLIENT_SDK_ID,
+  PEM_KEY: process.env.YOTI_PEM_KEY,
+  API_BASE_URL: process.env.YOTI_API_BASE_URL,
+  API_PATH: process.env.YOTI_API_PATH,
+  HOST: process.env.YOTI_HOST,
+  CLIENT_SCENARIO_ID: process.env.YOTI_CLIENT_SCENARIO_ID,
+  FRONTENT_CLIENT_SDK_ID: process.env.YOTI_FRONTENT_CLIENT_SDK_ID,
+  CLIENT_PEM_KEY: process.env.YOTI_CLIENT_PEM_KEY,
+}

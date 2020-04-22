@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="58px" viewBox="0 0 257 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>MapPin</title>
+    <desc></desc>
+    <defs>
+        <filter x="-6.6%" y="-31.9%" width="113.2%" height="163.8%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="2.33816964" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-11.5%" y="-54.0%" width="123.0%" height="207.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="2.33816964" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-26.0%" y="-116.9%" width="152.0%" height="333.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="2.33816964" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="MapPin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" opacity="0.103147645" transform="translate(76.000000, 372.000000)">
+            <path d="M52.9999971,22 C91.275145,22 113.87049,17.0751322 103.468112,11 C93.0657341,4.92486775 70.470393,0 53.000005,0 C35.5296169,-9.24304663e-15 12.9342723,4.92486775 2.53189023,11 C-7.87049187,17.0751322 14.7248492,22 52.9999971,22 Z" id="Oval-2" fill="#000000" filter="url(#filter-1)"></path>
+            <path d="M52.4490739,18 C72.6295029,18 86.0413363,15.0898509 82.4052423,11.5 C78.7691483,7.91014913 65.4129328,5 52.5732999,5 C39.7336671,5 26.3218336,7.91014913 22.6171315,11.5 C18.9124294,15.0898509 32.2686449,18 52.4490739,18 Z" id="Oval-2" fill="#FFFFFF" filter="url(#filter-2)"></path>
+            <path d="M52.47458,15 C60.6226042,15 66.6527534,13.6568542 65.9432953,12 C65.2338371,10.3431458 59.2286945,9 52.5304338,9 C45.832173,9 39.8020238,10.3431458 39.0617185,12 C38.3214131,13.6568542 44.3265558,15 52.47458,15 Z" id="Oval-2" fill="#000000" filter="url(#filter-3)"></path>
+        </g>
+        <g id="Group">
+            <path d="M22.2885096,200.850294 C8.22386195,180.243033 0,155.331909 0,128.5 C0,57.5314097 57.5314097,0 128.5,0 C199.46859,0 257,57.5314097 257,128.5 C257,155.243993 248.829942,180.079766 234.849554,200.647592 L128.5,382.886719 L22.2885096,200.850294 Z" id="Combined-Shape" fill="#D0021B"></path>
+            <circle id="Oval-2" fill="#FFFFFF" cx="128.5" cy="127.5" r="92.5"></circle>
+            <circle id="Oval-2" fill="#C11515" cx="128.5" cy="127.5" r="53.5"></circle>
+        </g>
+    </g>
+</svg>

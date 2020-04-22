@@ -1,0 +1,53 @@
+a.not-purple {
+  color: black;
+}
+a:visited.not-purple {
+  color: black;
+}
+@font-face {
+  font-family: Luminari;
+  src: url(/fonts/Luminari.ttf);
+}
+
+body,
+html {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  min-height: 100%;
+}
+
+button:focus {
+  outline: 0;
+}
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  font-family: Lato, Arial, Sans-serif;
+  font-size: 1.1875rem;
+  line-height: 1.47368;
+}
+
+div#__next {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+}
+.visibility-hidden {
+  visibility: hidden;
+}
+h1,
+h2 {
+  font-family: Luminari, Arial, Sans-serif;
+}
+
+h3,
+h4,
+h5 {
+  font-family: Lato, Arial, Sans-serif;
+}
